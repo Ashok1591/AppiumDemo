@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demo Application" parallel="true">
+
+	<test name="Demo Test On Redmi Note 8">
+
+		<classes>
+			<class name="mobile_Runner.ApplicationRunner" />
+		</classes>
+
+	</test>
+
+</suite> 
